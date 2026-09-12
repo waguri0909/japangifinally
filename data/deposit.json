@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "guild_id": 1547578502356934676,
+    "user_id": 1091179449308958810,
+    "amount": 10000,
+    "method": "문화상품권",
+    "receipt_image": null,
+    "transaction_hash": null,
+    "depositor_name": "문상PIN:123412341234123412",
+    "timestamp": "2026-09-10T22:02:42.809143",
+    "date": "2026년 09월 10일 22:02"
+  },
+  {
+    "id": 2,
+    "guild_id": 1547578502356934676,
+    "user_id": 1091179449308958810,
+    "amount": 10000,
+    "method": "문화상품권",
+    "receipt_image": null,
+    "transaction_hash": null,
+    "depositor_name": "문상PIN:123412341234123412",
+    "timestamp": "2026-09-10T22:04:49.945112",
+    "date": "2026년 09월 10일 22:04"
+  },
+  {
+    "id": 3,
+    "guild_id": 1547578502356934676,
+    "user_id": 1091179449308958810,
+    "amount": 10000,
+    "method": "문화상품권",
+    "receipt_image": null,
+    "transaction_hash": null,
+    "depositor_name": "문상PIN:123412341234123412",
+    "timestamp": "2026-09-10T22:16:01.416087",
+    "date": "2026년 09월 10일 22:16"
+  },
+  {
+    "id": 4,
+    "guild_id": 1537979907408273539,
+    "user_id": 1091179449308958810,
+    "amount": 10000,
+    "method": "문화상품권",
+    "receipt_image": null,
+    "transaction_hash": null,
+    "depositor_name": "문상PIN:123412341234123412",
+    "timestamp": "2026-09-11T22:42:57.864189",
+    "date": "2026년 09월 11일 22:42"
+  }
+]
