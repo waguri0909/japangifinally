@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.vscode/
+data/guild_*.json
+data/admins.json
+data/category_emojis.json
+data/product_images.json
+data/product_emojis.json
+data/product_order.json
